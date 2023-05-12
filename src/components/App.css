@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.logout-btn{
+      background-color: rgb(199, 238, 238);
+        border-radius: 25px;
+        font-size: 15px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

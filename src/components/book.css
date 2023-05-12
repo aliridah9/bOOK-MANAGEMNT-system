@@ -1,0 +1,11 @@
+/* Customize the toast notification */
+.custom-toast {
+  background-color: #47e34c;
+  color: #fff;
+}
+
+/* Customize the progress bar */
+.custom-toast .Toastify__progress-bar {
+  background-color: #47e34c;
+  color: #47e34c;
+}
